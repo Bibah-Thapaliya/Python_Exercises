@@ -16,6 +16,7 @@ shape : length of each axes ie number of elements present in each axes of the te
 
 
 """
+# This is my first change in the script
 
 import numpy as np
 import torch
